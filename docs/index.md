@@ -1,44 +1,72 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Alex Berryhill Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Alex Berryhill
+Embedded Systems Engineer
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="amsb99@gmail.com">amsb99@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/alexander-berryhill-891145165">LinkedIn</a>
+| <a href="https://github.com/AlexBerryhill">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2017-2019`
+__Cascadia Community College__, Bothell, WA
 
-- Full academic scholarship with 4.0 GPA
+- 4.0 GPA
 
-`Expected 2029`
+`2019-Expected 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.8 Major GPA
 
 
 ## Related Experience
 
-### Internships
+### Societies
+`January 2022 - Present`
+__Society for Artificial Intelegence__, Rexburg, ID
+
+- Worked on Artificial Intelegence Projects Like
+    - Play Mario Kart Automatically and find the most effient routes
+    - using a geoJSON predict major earthquakes
+
+`April 2022 - Present`
+__ACM__, Rexburg, ID
+
+- Organized Events and Workshops for
+    - Interships
+    - Coding Interviews
+    - School Forums
+    - Hackathons
+- Lead meetings and a team
+- Created apps for school Faculty
+
+`April 2022 - Present`
+__ACM Projects__, Rexburg, ID
+
+- Worked on Various Computer Science Projects
+    - "Get-it-Done" A web app built in React to help the users manage their time and finish projects on time using the Pomodoro method.
+    - "MAAD Email Service" A native computer app compatable with Mac, Windows and Linux built in Electron. The E-mail service is designed for professional settings and sends emails in Templates.
+- Lead meetings and a team
+
+<!-- ### Internships
 
 `January 2028 - June 2028`
 __Pacific Northwest National Lab__, Richland, WA
 
 - Worked on novel methods for soil sampling to reduce laboratory measurements
 - Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Published a journal article in Environmental Quality. -->
 
-### Data Science Lead
+<!-- ### Data Science Lead
 
 `April 2027 - June 2027`
 __Westmark Credit Union__, Consultant
@@ -52,8 +80,8 @@ __Good2Go__, Consultant
 
 - Built product ordering and supply predictive algorithms for chips and beverages categories
 - Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
+- Found over $35k in waste and saved over 200 annual hours of store quality control work  -->
+<!-- 
 ### Data Science Consulting Team
 
 `January 2027 - April 2027`
@@ -69,17 +97,19 @@ __Pinnacle Management Group__,
 - Proof of concept development of dashboards using client's corporate data.
 - Built and documented differences of PowerBI, Google Dashoards, and Tableau.
 - Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+ -->
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2018-2019`
+__Panera Bread__, Bellevue, WA
+- Associate Trainer
 
+`2019-2021`
+__Missionary__, Utah
 
-`2023-2025`
-__Service Missionary__, South Africa
-
+`2021-Present`
+__Smith's Food and Drug__, Sunset, UT
 
 
 <!-- ### Footer
