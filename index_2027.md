@@ -87,16 +87,16 @@ __Good2Go__, Consultant
 `January 2027 - April 2027`
 __Imagine Learning__
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+- Build web scraping tool to find and format school district technology data
+- Used R and the Rvest package to parse and format web data
+- Saved 30 hours a month with the automated scripts
 
 `April 2027 - July 2027`
 __Pinnacle Management Group__, 
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Proof of concept development of dashboards using client's corporate data
+- Built and documented differences of PowerBI, Google Dashoards, and Tableau
+- Saved client $10k in database and dashboard server fees and validated future dashboard processes
  -->
 
 ## Service and Work History
@@ -104,12 +104,15 @@ __Pinnacle Management Group__,
 `2018-2019`
 __Panera Bread__, Bellevue, WA
 - Associate Trainer
+- Add more detail on what you did even if it just was pepole skills
 
 `2019-2021`
 __Missionary__, Utah
+- Add detail on the skills and tools you developed durring your mission from teaching to intoducing yourself to strangers
 
 `2021-Present`
 __Smith's Food and Drug__, Sunset, UT
+- Add more detail on what you did even if it just was pepole skills
 
 
 <!-- ### Footer
